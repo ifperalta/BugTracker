@@ -2,12 +2,10 @@
 
 This project web app is derived from a project management software called Jira. The tool can help keep track of project progress and improve workflow within a development team in task distribution.
 
-<br /><br />
+<br />
 <b>Design Patterns</b><br />
 There are three design patterns we have implemented - Singleton Pattern,  State Pattern and Proxy Pattern
 <br />
-
-<b>Web App  Structure</b><br />
 
 <b>MVC Pattern</b><br />
 The app is using the MVC pattern. All frontend elements are separated from the Dao, Servlet and Bean directories.
