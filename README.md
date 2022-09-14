@@ -6,9 +6,9 @@ Design Patterns
 There are three design patterns we have implemented. 
 Singleton Pattern,  State Pattern and Proxy Pattern
 
-Web App  Structure
+<b>Web App  Structure</b>
 
-MVC Pattern
+<b>MVC Pattern</b>
 The app is using the MVC pattern. All frontend elements are separated from the Dao, Servlet and Bean directories.
 
 Frontend
