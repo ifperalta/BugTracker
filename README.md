@@ -1,6 +1,6 @@
 # BugTracker
 
-This project web app is derived from a project management software called Jira. The tool can help keep track of project progress and improve workflow within a development team in task distribution.
+This project web app is inpired by a popular project management software called Jira. The tool can help keep track of project progress and improve workflow within a development team in task distribution.
 
 <b>Design Patterns</b><br />
 There are three design patterns we have implemented - <b>Singleton Pattern,  State Pattern and Proxy Pattern</b>
