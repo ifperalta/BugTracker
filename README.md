@@ -3,7 +3,7 @@
 This project web app is inpired by a popular project management software called Jira. I built this tool to learn Java OOP and Design Patterns. The main feature is the project tracker and task distribution. It can handle multiple users by assigned to different user roles. 
 
 <b>MVC Pattern</b><br />
-The app is using the MVC pattern. All frontend elements are separated from the Dao, Servlet and Bean directories.
+The app is using the MVC pattern.
 <br />
 
 <b>Frontend</b><br />
