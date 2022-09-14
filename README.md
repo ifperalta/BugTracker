@@ -2,10 +2,6 @@
 
 This project web app is inpired by a popular project management software called Jira. I built this tool to learn Java OOP and Design Patterns. The main feature is the project tracker and task distribution. It can handle multiple users by assigned to different user roles. 
 
-<b>Design Patterns</b><br />
-There are three design patterns we have implemented - <b>Singleton Pattern,  State Pattern and Proxy Pattern</b>
-<br /><br />
-
 <b>MVC Pattern</b><br />
 The app is using the MVC pattern. All frontend elements are separated from the Dao, Servlet and Bean directories.
 <br />
@@ -27,3 +23,7 @@ This directory contains all the servlets.<br />
 
 <b>MySql Database</b><br />
 Implemented 6 tables namely profile, tblprojects, tblrole, tblteam, tblticket and tblusers.<br /><br />
+
+<b>Design Patterns</b><br />
+There are three design patterns we have implemented - <b>Singleton Pattern,  State Pattern and Proxy Pattern</b>
+<br /><br />
