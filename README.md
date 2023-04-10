@@ -12,10 +12,7 @@ A web app is inpired by a popular project management software called Jira. I bui
 - Installation
 
 ## Architecture
-The app is built using the Model-View-Controller (MVC) pattern. The frontend is built using Bootstrap CSS.
-
-## Features
-The main feature of this app is project tracking and task distribution. It supports multiple users with different roles.
+The app is built using the Model-View-Controller (MVC) pattern and the frontend is built using Bootstrap CSS.
 
 ## Backend
 The backend code is divided into three directories:
