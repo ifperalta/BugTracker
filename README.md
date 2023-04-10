@@ -44,5 +44,5 @@ To run the app locally, follow these steps:
 - Build and run the project
 
 ## Demo
-![alt text](https://raw.githubusercontent.com/ifperalta/BugTrackerv1.0/master/src/Chrome-Demo.gif)
+![alt text](https://raw.githubusercontent.com/ifperalta/BugTrackerv1.0/master/src/Chrome-Demo.gif | width=800)
 
