@@ -11,20 +11,20 @@ A web app is inpired by a popular project management software called Jira. I bui
 - Design Patterns
 - Installation
 
-##Architecture
+## Architecture
 The app is built using the Model-View-Controller (MVC) pattern. The frontend is built using Bootstrap CSS.
 
-##Features
+## Features
 The main feature of this app is project tracking and task distribution. It supports multiple users with different roles.
 
-###Backend
+### Backend
 The backend code is divided into three directories:
 
 - Dao: Contains all the database queries for the four features. Each java file contains methods to execute CRUD operations.
 - Bean: Contains all classes that encapsulate objects into a single object. Properties are manipulated with getter and setter methods. All four features have designated java files inside the bean directory.
 - Servelets: Contains all the servlets.
 
-###MySql Database</b><br />
+### MySql Database
 It uses a MySQL database with 6 tables:
 - profile
 - tblprojects
@@ -33,13 +33,13 @@ It uses a MySQL database with 6 tables:
 - tblticket
 - tblusers
 
-<b>Design Patterns</b><br />
+### Design Patterns
 There are three design patterns we have implemented - 
 - Singleton Patter
 - State Pattern 
 - Proxy Pattern
 
-###Installation
+### Installation
 To run the app locally, follow these steps:
 - Clone this repository
 - Open the project in your favorite IDE
