@@ -45,3 +45,7 @@ To run the app locally, follow these steps:
 - Open the project in your favorite IDE
 - Create a MySQL database and update the db.properties file with your database credentials
 - Build and run the project
+
+## Demo
+![alt text](https://raw.githubusercontent.com/ifperalta/BugTrackerv1.0/master/src/Chrome-Demo.gif)
+
