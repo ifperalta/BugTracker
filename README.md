@@ -2,7 +2,7 @@
 
 A web app is inpired by a popular project management software called Jira. I built this tool to learn Java OOP and Design Patterns. The main feature is the project tracker and task distribution. It can handle multiple users by assigned to different user roles. 
 
-##Table of Contents
+## Table of Contents
 
 - Architecture
 - Features
